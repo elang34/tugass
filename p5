@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Latihan Membuat Tabel</title>
+  </head>
+  <body>
+    <h3>Tabel Materi Pemrogrman Web</h3>
+    <table border="1" cellspacing="0" cellpadding="5">
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Nama Materi</th><th></th colspan
+            ><td></td>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr>
+          <td>1</td>
+          <td>rpl</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>tkj</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Javascript</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>PHP</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>y</td>
+        </tr>
+
+      </tbody>
+    </table>
+
+<h4>sinau terr</h4>
+<table border="1" cellspacing="0" cellpadding="8" >
+  <thead>
+    <tr>
+      <th rowspan="2">nomer</th>
+      <th rowspan="2" align="center">jeneng</th>
+      <th colspan="2">nilai </th>
+    </tr>
+
+    <tr>
+      <th>1</th>
+      <th>2</th>
+    </tr>
+
+  
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>main</td>
+        <td>90</td>
+        <td>89</td>
+      </tr>
+    
+      <tbody>
+        <tr>
+          <td>2</td>
+          <td>panggah loss</td>
+          <td>90</td>
+         <td>20
+          </td>
+        </tr>
+  </thead>
+  
+
+
+</table>
+<video controls width="700px">
+  <source src="Video/WhatsApp Video 2023-07-25 at 13.37.58.mp4">
+</video>
+
+<audio controls width="800px">
+  <source src="Audio/Tresno liyane - NorthSle (Lirik lagu)pengarepku kowe oleh penggantiku.mp3">
+</audio>
+<h2>----------------------------------------------------------------</h2>
+
+<img src="IMG/kopi.jpg" alt="kopi">
+<img src="IMG/" alt="">
+
+</body>
+</html>
+
